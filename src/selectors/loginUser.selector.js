@@ -1,0 +1,1 @@
+export const getloginUser=(state)=>state.loginUser.data;
